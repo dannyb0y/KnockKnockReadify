@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Release\KnockKnockReadify.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Release\KnockKnockReadify.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Release\KnockKnockReadify.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Release\KnockKnockReadify.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Release\KnockKnockReadify.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Release\KnockKnockReadify.pdb

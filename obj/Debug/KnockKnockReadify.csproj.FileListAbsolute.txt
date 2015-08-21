@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Debug\KnockKnockReadify.dll.config
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Debug\KnockKnockReadify.dll
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\bin\Debug\KnockKnockReadify.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Debug\KnockKnockReadify.dll
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Debug\KnockKnockReadify.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\KnockKnockReadify\KnockKnockReadify\obj\Debug\KnockKnockReadify.csprojResolveAssemblyReference.cache
